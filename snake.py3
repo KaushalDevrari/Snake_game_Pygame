@@ -1,3 +1,7 @@
+# To run this game u must have pygame installed 
+# To run this game just type py snake.py3 in terminal
+# just made it for fun
+
 import pygame
 import sys
 import random
